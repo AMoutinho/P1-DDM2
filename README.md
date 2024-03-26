@@ -1,4 +1,4 @@
-# <p align=center><img align="center" src="https://giovanidacruz.com.br/wp-content/uploads/2022/11/react.png" height="115" width="200"/>DDMII - P1<img align="center" src="https://giovanidacruz.com.br/wp-content/uploads/2022/11/react.png" height="115" width="200"/></p>
+# <p align=center><img align="center" src="https://giovanidacruz.com.br/wp-content/uploads/2022/11/react.png" height="100" width="150"/>DDMII - P1<img align="center" src="https://giovanidacruz.com.br/wp-content/uploads/2022/11/react.png" height="100" width="150"/></p>
 
 <p>Repositório contendo todos os app's solicitados na disciplina de Desenvolvimento para Dispositivos Móveis II, como forma avaliativa P1 do 1º Bimestre de 2024.</p>
 
