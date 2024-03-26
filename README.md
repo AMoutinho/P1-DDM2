@@ -1,6 +1,6 @@
 # <p align=center><img align="center" src="https://giovanidacruz.com.br/wp-content/uploads/2022/11/react.png" height="40" width="65"/>DDMII - P1<img align="center" src="https://giovanidacruz.com.br/wp-content/uploads/2022/11/react.png" height="40" width="65"/></p>
 
-<p>Repositório contendo todos os app's solicitados na disciplina de Desenvolvimento para Dispositivos Móveis II, como forma avaliativa P1 do 1º Bimestre de 2024.</p>
+<p>Repositório contendo todos os app's solicitados na disciplina de Desenvolvimento para Dispositivos Móveis II, como forma avaliativa da P1 do 1º Bimestre de 2024.</p>
 
 <h2>Aplicações 📱</h2>
 <p><a href="LINK AQUI">App 01 - Meu Perfil Profissional</a></p>
