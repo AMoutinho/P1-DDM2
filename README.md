@@ -16,7 +16,7 @@
 <p><a href="LINK AQUI">App 11 - Vagas de Emprego TI (com Flat List)</a></p>
 <p><a href="LINK AQUI">App 12 - Abertura de Conta Bancária com 2 telas (com Stack Navigator)</a></p>
 
-<h2>Projeto Pokedex 📂</h2>
+<h2>Projeto 📂</h2>
 <p><a href="LINK AQUI">Pokedex</a></p>
     
 <h2>Autores dos Aplicativos 👨‍💼</h2>
