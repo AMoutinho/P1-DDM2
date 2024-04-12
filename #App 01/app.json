@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "name": "app-01",
+    "slug": "snack-1cc7ab9c-5449-4a96-902a-6892a7e7475d",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "#App 01: Crie um App chamado Meu Perfil Profissional, onde ele exiba a sua foto, dados pessoais, formação, experiência e projetos que você já fez."
+  }
+}
