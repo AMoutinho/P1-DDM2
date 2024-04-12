@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "name": "app-06",
+    "slug": "snack-b0279046-bde9-49f3-bf50-c5eeac66c220",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "#App 06: Jogo do número aleatório: Para gerar um número aleatório de 0 a 10, você pode usar o função: Math.floor(Math.random() * 11).\n\n"
+  }
+}
