@@ -17,7 +17,7 @@
 <p><a href="https://snack.expo.dev/@amoutinho/app-12">App 12 - Abertura de Conta Bancária com 2 telas (com Stack Navigator)</a></p>
 
 <h2>Projeto 📂</h2>
-<p><a href="LINK AQUI">Pokedex</a></p>
+<p><a href="https://snack.expo.dev/@amoutinho/projeto-p1-ddm2---pokedex?platform=android">Pokedex</a></p>
     
 <h2>Autores das Aplicações e Projeto 👨‍💼</h2>
 <a href="https://github.com/AhMoutinho/" title="André Moutinho"><img align="center" src="https://i.imgur.com/VN0Vh9S.png" width="25"/> André Moutinho</a></br> 
